@@ -6,9 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="n11-project" />
-        <module name="n11-project-merve" />
         <module name="N11-project" />
+        <module name="n11-project-merve" />
+        <module name="n11-project" />
       </profile>
     </annotationProcessing>
   </component>
