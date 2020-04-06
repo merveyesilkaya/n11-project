@@ -1,0 +1,29 @@
+Created by testinium on 4.04.2020
+
+Giriş
+# n11.com açılır ve <email>, <password> ile giriş yapılır
+*Siteye Giriş Yapıldı
+*Giriş Yap
+*Email <email> bilgilerini giriyoruz
+*Şifre <password> giriyoruz
+Arama
+# arama alanına <text> yazılır ve arama butonuna tıklanır
+*Arama alanına <text> yazıldı
+*Arama butonuna tıklandı
+
+Sepete Ekleme
+# Ürün seçilir , sepete eklenir ve sepete gidilir
+*Ürün seç
+*Ürünü Sepete Ekle
+*Sepete Git
+
+Favorilere Ekleme
+#Arama alanına <text> yazılır , arama butonuna tıklanır,Ürün seçilir ve favorilere eklenir
+*Arama alanına "ürün" yazılır
+*Arama iconuna tıklanır
+*2.Ürün Seçilir
+*Ürün favorilere eklenir
+
+Ürün iade
+#Ürün iade butonuna basılır
+*Ürün iade butonuna tıklanır
